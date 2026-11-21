@@ -1,5 +1,7 @@
 # LBXViewerWLX — User Guide
 
+![preview](preview.png)
+
 ## Short description
 
 LBXViewerWLX is a Total Commander Lister (WLX) plugin for previewing **Brother P-touch `.lbx` label files** on Windows. Open a label with **F3** to see its layout, text, barcodes, images, and available label information without launching P-touch Editor.
